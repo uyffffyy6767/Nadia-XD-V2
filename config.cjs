@@ -5,7 +5,7 @@ require("dotenv").config();
 const config = {
   SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~hFoAwYra#luTKl8JS7Gvu_bcbP8_yqyxcAzIEk5vGCi7M9oCXGps",
   PREFIX: process.env.PREFIX || '.',
-   BOT_NAME: process.env.BOT_NAME || "INCONNU XD V2",
+   BOT_NAME: process.env.BOT_NAME || "Nadia XD V2",
    BOT: process.env.BOT || "hello 👋",
   NEW_CMD: process.env.NEW_CMD || "ᴀᴅᴅᴠᴀʀ\n│ sᴜᴅᴏ\n| inconnu",
   CAPTION: process.env.CAPTION|| "ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy",
